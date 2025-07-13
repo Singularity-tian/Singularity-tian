@@ -1,12 +1,33 @@
-## Hi there 👋
+<!--
+### Hi there 👋
+-->
 
-## 🐍 Contribution Snake
+<!--
+**Singularity-tian/Singularity-tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Snake animation](https://raw.githubusercontent.com/Singularity-tian/Singularity-tian/main/dist/github-contribution-grid-snake.svg)
+Here are some ideas to get you started:
 
-<!-- For dark mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singularity-tian/Singularity-tian/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singularity-tian/Singularity-tian/main/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Singularity-tian/Singularity-tian/main/dist/github-contribution-grid-snake.svg">
-</picture>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<div id="header" align="center">
+  
+  <samp>
+    Hey!! I'm Tian Zhang :wave:
+    <br>
+    I'm an undergrad student at the University of Waterloo,
+    <br>
+    working towards a degree in Computer Science.
+    <br><br>
+    I am currently working on my startups <b><a href="https://bluelet.ai/">Bluelet</a></b> and <b><a href="https://beyz.ai/">Beyz</a></b>. 
+  </samp>
+  
+  ![snake gif](https://github.com/Singularity-tian/Singularity-tian/blob/output/github-contribution-grid-snake.svg)
+</div>
