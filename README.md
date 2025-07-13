@@ -22,11 +22,9 @@ Here are some ideas to get you started:
   <samp>
     Hey!! I'm Tian Zhang :wave:
     <br>
-    I'm an undergrad student at the University of Waterloo,
-    <br>
-    working towards a degree in Computer Science.
+    I'm an CS major undergrad student at the University of Waterloo
     <br><br>
-    I am currently working on my startups <b><a href="https://bluelet.ai/">Bluelet</a></b> and <b><a href="https://beyz.ai/">Beyz</a></b>. 
+    I am currently working on <b><a href="https://bluelet.ai/">Bluelet</a></b> and <b><a href="https://beyz.ai/">Beyz</a></b>
   </samp>
   
   ![snake gif](https://github.com/Singularity-tian/Singularity-tian/blob/output/github-contribution-grid-snake.svg)
