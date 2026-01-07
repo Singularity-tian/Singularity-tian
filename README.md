@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <br>
     I'm an CS major undergrad student at the University of Waterloo
     <br><br>
-    I am currently working on <b><a href="https://beyz.ai/">Beyz</a></b>
+    I am currently working on <b><a href="https://readycall.ai/">ReadyCall</a></b>
   </samp>
   
   ![snake gif](https://github.com/Singularity-tian/Singularity-tian/blob/output/github-contribution-grid-snake.svg)
