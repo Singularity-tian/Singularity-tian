@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   <samp>
     Hey!! I'm Tian Zhang :wave:
     <br>
-    I'm an CS major undergrad student at the University of Waterloo
+    Building AI Agents that understand context and get work done.
     <br><br>
-    I am currently working on <b><a href="https://buttergrow.com">ButterGrow</a></b>
+    Currently building <b><a href="https://github.com/Persome-ai/persome-core">Persome</a></b> and <b><a href="https://buttergrow.com">ButterGrow</a></b> · CS @ UWaterloo 
   </samp>
   
   ![snake gif](https://github.com/Singularity-tian/Singularity-tian/blob/output/github-contribution-grid-snake.svg)
