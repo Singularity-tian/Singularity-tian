@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <br>
     Building AI Agents that understand context and get work done.
     <br><br>
-    Currently building <b><a href="https://github.com/Persome-ai/persome-core">Persome</a></b> and <b><a href="https://buttergrow.com">ButterGrow</a></b> · CS @ UWaterloo 
+    Currently building <b><a href="https://persom.ai/">Persom</a></b> and <b><a href="https://buttergrow.com">ButterGrow</a></b> · CS @ UWaterloo 
   </samp>
   
   ![snake gif](https://github.com/Singularity-tian/Singularity-tian/blob/output/github-contribution-grid-snake.svg)
